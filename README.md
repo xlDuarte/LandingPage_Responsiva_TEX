@@ -1,6 +1,8 @@
-# <h1 align="center">Projeto Individual - Landing page Responsiva | T.EX - Technology Experts</h1>
+# <h1 align="center">Projeto Individual</h1>
+<h1 align="center">Landing page Responsiva | T.EX - Technology Experts</h1>
+<div align="center">
+<img alt="lptex" src="https://i.imgur.com/7x9Df1A.jpg"/>
 
-![Landing Page Responsiva - T.EX](https://i.imgur.com/7x9Df1A.jpg)
 
 <h2 align="center"> Projeto individual desenvolvido para <a href="https://www.texperts.com.br/" target="_blank"/>[T.EX]</a> como exercício do curso Full Stack JavaScript.</h2>
 
@@ -31,5 +33,5 @@
 
 ## Licença
 [MIT License ](https://choosealicense.com/licenses/mit/)
-
+</div>
 <br>
